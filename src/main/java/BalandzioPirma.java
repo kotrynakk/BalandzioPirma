@@ -8,9 +8,8 @@
  *
  * @author Kotryna
  */
-public class Asdfghl {
-	public static void main(String[] args) {
-		System.out.println("Asdfghjkl!");
-}
+public class BalandzioPirma {
+    
+   
     
 }

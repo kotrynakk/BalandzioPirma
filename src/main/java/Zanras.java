@@ -8,9 +8,10 @@
  *
  * @author Kotryna
  */
-public class Asdfghl {
-	public static void main(String[] args) {
-		System.out.println("Asdfghjkl!");
-}
+public enum Zanras {
+    
+    komedija,
+    siaubo_filmas,
+    romantinis
     
 }
