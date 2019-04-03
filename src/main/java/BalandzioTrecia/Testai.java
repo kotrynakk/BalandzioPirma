@@ -3,14 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package BalandzioTrecia;
 
 /**
  *
  * @author Kotryna
  */
-public class Asdfghl {
-	public static void main(String[] args) {
-		System.out.println("Asdfghjkl!");
-}
+public class Testai {
+    
+    //@Test
+    public void search () {
+        
+    }
     
 }

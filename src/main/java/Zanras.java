@@ -12,6 +12,10 @@ public enum Zanras {
     
     komedija,
     siaubo_filmas,
-    romantinis
+    romantinis,
+    visai_seimai,
+    mistinis,
+    drama,
+    fantastinis
     
 }

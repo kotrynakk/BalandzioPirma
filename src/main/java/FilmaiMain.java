@@ -13,12 +13,12 @@ import java.util.List;
 public class FilmaiMain {
 
     public static void main(String[] args) {
-        FilmuNuskaitymas nuskaitymas = new FilmuNuskaitymas();
-        List<Filmas> list = nuskaitymas.nuskaityti();
+        FilmuSarasas nuskaitymas = new FilmuSarasas();
+        List<Filmas> list = nuskaitymas.getFilmai();
 
         FilmuPaieska paieska = new FilmuPaieska(list);
         
-       List<Filmas> result= paieska.paieska("American");
+       List<Filmas> result= paieska.paieska("bgybhunhunhunu");
        
         for (Filmas filmas : result) {
             System.out.println("pavadinimas: "+filmas.getPavadinimas());
